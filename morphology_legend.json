@@ -1,0 +1,69 @@
+{
+    "PartOfSpeech": {
+      "V": { "en": "Verb", "pt": "Verbo" },
+      "N": { "en": "Noun", "pt": "Substantivo" },
+      "Adv": { "en": "Adverb", "pt": "Advérbio" },
+      "Adj": { "en": "Adjective", "pt": "Adjetivo" },
+      "Art": { "en": "Article", "pt": "Artigo" },
+      "DPro": { "en": "Demonstrative Pronoun", "pt": "Pronome Demonstrativo" },
+      "IPro": { "en": "Interrogative/Indefinite Pronoun", "pt": "Pronome Interrogativo/Indefinido" },
+      "PPro": { "en": "Personal/Possessive Pronoun", "pt": "Pronome Pessoal/Possessivo" },
+      "RecPro": { "en": "Reciprocal Pronoun", "pt": "Pronome Recíproco" },
+      "RelPro": { "en": "Relative Pronoun", "pt": "Pronome Relativo" },
+      "RefPro": { "en": "Reflexive Pronoun", "pt": "Pronome Reflexivo" },
+      "Prep": { "en": "Preposition", "pt": "Preposição" },
+      "Conj": { "en": "Conjunction", "pt": "Conjunção" },
+      "I": { "en": "Interjection", "pt": "Interjeição" },
+      "Prtcl": { "en": "Particle", "pt": "Partícula" },
+      "Heb": { "en": "Hebrew Word", "pt": "Palavra Hebraica" },
+      "Aram": { "en": "Aramaic Word", "pt": "Palavra Aramaica" }
+    },
+    "Person": {
+      "1": { "en": "1st Person", "pt": "1ª Pessoa" },
+      "2": { "en": "2nd Person", "pt": "2ª Pessoa" },
+      "3": { "en": "3rd Person", "pt": "3ª Pessoa" }
+    },
+    "Tense": {
+      "P": { "en": "Present", "pt": "Presente" },
+      "I": { "en": "Imperfect", "pt": "Imperfeito" },
+      "F": { "en": "Future", "pt": "Futuro" },
+      "A": { "en": "Aorist", "pt": "Aoristo" },
+      "R": { "en": "Perfect", "pt": "Perfeito" },
+      "L": { "en": "Pluperfect", "pt": "Mais-que-perfeito" }
+    },
+    "Voice": {
+      "A": { "en": "Active", "pt": "Ativa" },
+      "M": { "en": "Middle", "pt": "Média" },
+      "P": { "en": "Passive", "pt": "Passiva" },
+      "M/P": { "en": "Middle or Passive", "pt": "Média ou Passiva" }
+    },
+    "Mood": {
+      "I": { "en": "Indicative", "pt": "Indicativo" },
+      "M": { "en": "Imperative", "pt": "Imperativo" },
+      "S": { "en": "Subjunctive", "pt": "Subjuntivo" },
+      "O": { "en": "Optative", "pt": "Optativo" },
+      "N": { "en": "Infinitive", "pt": "Infinitivo" },
+      "P": { "en": "Participle", "pt": "Particípio" }
+    },
+    "Case": {
+      "N": { "en": "Nominative", "pt": "Nominativo" },
+      "V": { "en": "Vocative", "pt": "Vocativo" },
+      "A": { "en": "Accusative", "pt": "Acusativo" },
+      "G": { "en": "Genitive", "pt": "Genitivo" },
+      "D": { "en": "Dative", "pt": "Dativo" }
+    },
+    "Number": {
+      "S": { "en": "Singular", "pt": "Singular" },
+      "P": { "en": "Plural", "pt": "Plural" }
+    },
+    "Gender": {
+      "M": { "en": "Masculine", "pt": "Masculino" },
+      "F": { "en": "Feminine", "pt": "Feminino" },
+      "N": { "en": "Neuter", "pt": "Neutro" }
+    },
+    "Comparison": {
+      "C": { "en": "Comparative", "pt": "Comparativo" },
+      "S": { "en": "Superlative", "pt": "Superlativo" }
+    }
+  }
+  
